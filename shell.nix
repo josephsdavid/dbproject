@@ -5,5 +5,6 @@ in
     buildInputs = with pkgs; [
       texlive.combined.scheme-full
       go
+      pkg-config
     ];
   }
