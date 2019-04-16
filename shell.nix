@@ -6,5 +6,7 @@ in
       texlive.combined.scheme-full
       go
       pkg-config
+      openssl_1_1
+      cmake
     ];
   }
