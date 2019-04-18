@@ -8,6 +8,10 @@ pylint = "*"
 
 [packages]
 neo4j = "*"
+mysql-connector-python = "*"
+pymysql = {extras = ["rsa"],version = "*"}
+py2neo = "*"
+pandas = "*"
 
 [requires]
 python_version = "3.7"
