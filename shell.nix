@@ -8,5 +8,10 @@ in
       pkg-config
       openssl_1_1
       cmake
+      python37
+      R
+      neo4j
+      mongodb
+      mysql
     ];
   }
